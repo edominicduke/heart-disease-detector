@@ -1,13 +1,14 @@
 # Heart Disease Detector
 
 ## Goal
-The ultimate goal of this project is to develop a tool that can be used by doctors to validate their assessment of whether a patient has a heart disease. This goal has been ultimately achieved through this project: a web application that leverages the inferencing capabilities of a custom-made binary classification MLP that has been trained on a dataset based on 4 databases: Cleveland, Hungary, Switzerland, and Long Beach V.
+The ultimate goal of this project is to develop a tool that can be used by doctors to use test results to determine whether a patient has a heart disease. This goal has been ultimately achieved through this project: a web application that leverages the inferencing capabilities of a custom-made binary classification MLP that has been trained on a dataset based on 4 databases: Cleveland, Hungary, Switzerland, and Long Beach V.
 
 ## Project Objectives
 With the goal in mind, the objectives of this project are to develop a binary classification MLP that demonstrate strong ability to classify a given patient as likely to have a heart disease or unlikely to have a heart disease. The MLP's classification ability will be assessed through the following 4 metrics: accuracy, precision, recall, and AUC. These metrics have been chosen to ensure the correctness of its predictions and to moreover ensure its ability to distinguish patients with heart disease from patients without heart disease.
 
 ## Motivation
-The fact of the matter is that millions of people worldwide are suffering from heart diseases. After all, cardiovascular diseases take approximately 17.9 million lives every year according to the World Health Organization. Therefore, this project was built with the intention of addressing the issue of heart disease detection. The way it ultimately does is by serving as a tool that can be used by doctors to validate their assessment of whether a patient has a heart disease. If there is any chance that a patient has been misdiagnosed as not having a heart disease, this tool could serve as an additional check that could catch such a misdiagnosis.
+The fact of the matter is that millions of people worldwide are suffering from heart diseases. After all, cardiovascular diseases take approximately 17.9 million lives every year according to the World Health Organization. Therefore, this project was built with the intention of addressing the issue of heart disease detection. The way it ultimately does is by serving as a tool that can be used by doctors to use test results to determine whether a patient has a heart disease,
+which can assist with reducing the rate of misdiagnosis.
 
 ## What it Does
 This web application is designed to inference whether a patient is likely
