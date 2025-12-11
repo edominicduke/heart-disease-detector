@@ -30,8 +30,8 @@ To run the project, follow these steps:
 - Command: streamlit run src/app.py
 
 ## Video Links
-- Demo Video
-- Technical Walkthrough
+- Demo Video: https://github.com/edominicduke/heart-disease-detector/blob/main/videos/heart_disease_detector_demo.mp4 (Directs To Location In Repo) + https://drive.google.com/file/d/1dMxD-cDaM3Z-K8v-snSz94FfiGJiMb0U/view?usp=sharing (Use This Link For Immediate Watching)
+- Technical Walkthrough: https://github.com/edominicduke/heart-disease-detector/blob/main/videos/technical_walkthrough.mp4 (Directs To Location In Repo) + 
 
 ## Evaluation
 The custom-made binary classification MLP used to inference whether the given patient is likely to have a heart disease or not achieved the following metrics on the test
